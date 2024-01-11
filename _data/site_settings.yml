@@ -6,6 +6,8 @@ full-color: false
 primary_color: '#c92c20'
 font: Roboto
 button: Round
+cta_headline: Free Business Video
+cta_subhead: Schedule A 30 Minute Demo To Learn How
 primary_call_to_action: Signup
 primary_cta_url: https://buy.stripe.com/14k29H8Ne1nO4yQbIL
 secondary_call_to_action: Demo
