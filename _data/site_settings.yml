@@ -2,6 +2,7 @@ company-name: While You're In Town
 logo_path: /images/logos/logo.jpg
 logo: Circle
 style: Clean
+text_color: Light
 full-color: false
 primary_color: '#c92c20'
 font: Roboto
