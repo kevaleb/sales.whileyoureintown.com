@@ -1,0 +1,19 @@
+company-name: Company Name
+logo_path: /images/logos/logo.jpg
+logo: Octo
+style: ColorfulLight
+full-color: false
+primary_color: '#FFD214'
+font: 'Lobster'
+button: Round
+primary_call_to_action: Signup
+primary_cta_url: '#'
+secondary_call_to_action: Order
+secondary_cta_url: '#'
+banner: Split
+phone: 1 (234) 5678
+email: someone@someplace.com
+address: 123 Place
+city: Someplace
+state: STATE
+zip: 12345
