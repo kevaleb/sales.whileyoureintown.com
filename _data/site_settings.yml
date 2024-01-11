@@ -4,7 +4,7 @@ logo: Circle
 style: Clean
 full-color: false
 primary_color: '#c92c20'
-font: Vollkorn
+font: Roboto
 button: Round
 primary_call_to_action: Signup
 primary_cta_url: '#'
