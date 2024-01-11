@@ -1,8 +1,8 @@
 company-name: While You're In Town
 logo_path: /images/logos/logo.jpg
 logo: Circle
-style: ColorfulLight
-full-color: true
+style: Clean
+full-color: false
 primary_color: '#c92c20'
 font: Vollkorn
 button: Round
