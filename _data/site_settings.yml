@@ -1,10 +1,10 @@
-company-name: Company Name
+company-name: While You're In Town
 logo_path: /images/logos/logo.jpg
-logo: Octo
+logo: Circle
 style: ColorfulLight
-full-color: false
-primary_color: '#FFD214'
-font: 'Lobster'
+full-color: true
+primary_color: '#c92c20'
+font: Vollkorn
 button: Round
 primary_call_to_action: Signup
 primary_cta_url: '#'
