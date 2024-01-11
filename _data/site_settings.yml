@@ -7,7 +7,7 @@ primary_color: '#c92c20'
 font: Roboto
 button: Round
 primary_call_to_action: Signup
-primary_cta_url: '#'
+primary_cta_url: https://buy.stripe.com/14k29H8Ne1nO4yQbIL
 secondary_call_to_action: Demo
 secondary_cta_url: https://calendly.com/while-youre-in-town-sales/while-you-re-in-town-demo
 banner: Standard
