@@ -47,7 +47,7 @@ meta_description: How to feature your business in our next video.
 		
 		<meta property="og:title" content="{% if page.meta_title %}{{ page.meta_title }}{% else %}{{ page.headline }}{% endif %}" />
 		<meta property="og:description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ page.subhead }}{% endif %}" />
-		<meta property="og:image" content="{% if page.meta_image %}{{ page.meta_image }}{% elsif page.banner_path%}{{ page.banner_path }}{% else %}{% endif %}" />
+		<meta property="og:image" content="{% if page.meta_image %}https://sales.whileyoureintown.co{{ page.meta_image }}{% elsif page.banner_path%}{{ page.banner_path }}{% else %}{% endif %}" />
 		<meta property="og:type" content="website" />
 		
 		
