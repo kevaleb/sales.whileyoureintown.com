@@ -9,10 +9,10 @@ font: Wyit
 button: Round
 cta_headline: Free Business Video
 cta_subhead: Schedule A 30 Minute Demo To Learn How
-primary_call_to_action: Signup
-primary_cta_url: https://buy.stripe.com/14k29H8Ne1nO4yQbIL
-secondary_call_to_action: Demo
-secondary_cta_url: https://calendly.com/while-youre-in-town-sales/while-you-re-in-town-demo
+primary_call_to_action: Demo
+primary_cta_url: https://api.leadconnectorhq.com/widget/bookings/free-video
+secondary_call_to_action: None
+secondary_cta_url:
 banner: Standard
 banner_size: wide
 banner_style: Split
